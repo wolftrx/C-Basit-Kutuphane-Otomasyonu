@@ -1,0 +1,25 @@
+USE [Kutuphane]
+GO
+
+/****** Object:  Table [dbo].[YONETICI]    Script Date: 7.02.2022 23:23:57 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[YONETICI](
+	[Id] [int] IDENTITY(1,1) NOT NULL,
+	[Mail] [nvarchar](50) NOT NULL,
+	[Telefon] [nvarchar](50) NOT NULL,
+	[Sifre] [nvarchar](50) NOT NULL,
+	[Ad] [nvarchar](50) NULL,
+ CONSTRAINT [PK_YONETICI] PRIMARY KEY CLUSTERED 
+(
+	[Id] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+
+

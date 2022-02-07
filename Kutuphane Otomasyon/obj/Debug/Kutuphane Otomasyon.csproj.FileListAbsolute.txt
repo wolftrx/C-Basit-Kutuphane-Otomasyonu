@@ -1,0 +1,13 @@
+C:\Users\Monsterx\source\repos\Kutuphane Otomasyon\bin\Debug\Kutuphane Otomasyon.exe.config
+C:\Users\Monsterx\source\repos\Kutuphane Otomasyon\bin\Debug\Kutuphane Otomasyon.exe
+C:\Users\Monsterx\source\repos\Kutuphane Otomasyon\bin\Debug\Kutuphane Otomasyon.pdb
+C:\Users\Monsterx\source\repos\Kutuphane Otomasyon\obj\Debug\Kutuphane Otomasyon.csproj.AssemblyReference.cache
+C:\Users\Monsterx\source\repos\Kutuphane Otomasyon\obj\Debug\Kutuphane Otomasyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\Monsterx\source\repos\Kutuphane Otomasyon\obj\Debug\Kutuphane_Otomasyon.Form1.resources
+C:\Users\Monsterx\source\repos\Kutuphane Otomasyon\obj\Debug\Kutuphane_Otomasyon.Properties.Resources.resources
+C:\Users\Monsterx\source\repos\Kutuphane Otomasyon\obj\Debug\Kutuphane Otomasyon.csproj.GenerateResource.cache
+C:\Users\Monsterx\source\repos\Kutuphane Otomasyon\obj\Debug\Kutuphane Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Monsterx\source\repos\Kutuphane Otomasyon\obj\Debug\Kutuphane Otomasyon.exe
+C:\Users\Monsterx\source\repos\Kutuphane Otomasyon\obj\Debug\Kutuphane Otomasyon.pdb
+C:\Users\Monsterx\source\repos\Kutuphane Otomasyon\obj\Debug\Kutuphane_Otomasyon.AnaPanel.resources
+C:\Users\Monsterx\source\repos\Kutuphane Otomasyon\obj\Debug\Kutuphane_Otomasyon.UyeEkle.resources
